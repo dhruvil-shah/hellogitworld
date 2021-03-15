@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 //Added some comments on the branch for the egit demo
 
 /**
- * Unit test for simple App.
+ * Unit test for Simple App.
  */
 public class AppTest 
     extends TestCase
